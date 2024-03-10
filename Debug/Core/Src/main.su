@@ -1,0 +1,9 @@
+../Core/Src/main.c:56:5:main	16	static
+../Core/Src/main.c:104:7:power_on_self_test	16	static
+../Core/Src/main.c:118:5:init_measurement	24	static
+../Core/Src/main.c:126:10:TIM2_EdgeToEdge	16	static
+../Core/Src/main.c:138:5:make_measurements	24	static
+../Core/Src/main.c:150:5:print_measurements	24	static
+../Core/Src/main.c:160:6:printFunct	16	static
+../Core/Src/main.c:165:6:get_line	24	static
+../Core/Src/main.c:184:6:get_limit	24	static
