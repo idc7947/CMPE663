@@ -1,0 +1,7 @@
+../Core/Src/main.c:15:6:check_buttons	8	static
+../Core/Src/main.c:31:13:TIM2_init	4	static
+../Core/Src/main.c:42:17:TIM2_get_count	4	static
+../Core/Src/main.c:51:5:main	8	static
+../Core/Src/main.c:87:6:function_one	4	static
+../Core/Src/main.c:100:6:function_two	4	static
+../Core/Src/main.c:118:6:function_three	8	static

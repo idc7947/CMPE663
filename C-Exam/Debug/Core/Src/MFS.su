@@ -1,0 +1,13 @@
+../Core/Src/MFS.c:73:13:gpio_config_input	24	static
+../Core/Src/MFS.c:86:13:gpio_config_output	24	static
+../Core/Src/MFS.c:110:13:shiftOut	40	static
+../Core/Src/MFS.c:129:13:set_segment	24	static
+../Core/Src/MFS.c:141:16:ascii_to_segment	24	static
+../Core/Src/MFS.c:166:6:MFS_init	24	static
+../Core/Src/MFS.c:196:6:MFS_set_led	24	static
+../Core/Src/MFS.c:210:6:MFS_toggle_led	24	static
+../Core/Src/MFS.c:224:9:MFS_button_pressed	24	static
+../Core/Src/MFS.c:235:6:MFS_print_str	24	static
+../Core/Src/MFS.c:241:6:MFS_print_int	40	static
+../Core/Src/MFS.c:252:6:MFS_print_float	48	static
+../Core/Src/MFS.c:271:6:MFS_7seg_refresh	8	static
